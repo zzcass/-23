@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+
+header p {
+    color: black;
+    border: 1px;
+}
+
+header {
+    background-color: PapayaWhip;
+}
+
+header img {
+    border-radius: 20px;
+    margin: 7px;
+    padding: 7px;
+}
+
+h1 {
+    text-align: center;
+    color: SteelBlue;
+}
+
+footer p {
+    background-color: RoyalBlue;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: Cyan;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 12px;
+}
+
+p img {
+    background-color: SkyBlue;
+}
+
+p {
+    background-color: SkyBlue;
+}
+
+h2 {
+    background-color: SkyBlue;
+    color: MidnightBlue;
+}
